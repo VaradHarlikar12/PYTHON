@@ -1,0 +1,23 @@
+list=[99,43,21,45,632,532,5,56,2,35,3,535,5664,464]
+list.append(1)
+print(list)
+list.sort(reverse=True)
+print(list)
+list1=["red","yellow","mango"]
+print(list1.index("yellow"))
+list1.sort(reverse=True)
+print(list1)
+print(list1.count("red"))
+#extend
+names=["varad","atharva","ojas","yash","om"]
+other_names=["karan","jaydeep","salman"]
+names.extend(other_names)
+print(names)
+#insert
+#reverse
+fruit = ["banana","cherry","grape"]
+fruit.insert(1,"apple")
+print(fruit)
+fruit.reverse()
+print(fruit)
+list.__sizeof__()
