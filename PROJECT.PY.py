@@ -10,11 +10,11 @@ def password_generator():
     symbols = list(string.punctuation)
 
     print("Welcome to Password Generator")
-    pass_len=int(input("Enter an password length"))
-    n_letters = int(input("How Many number of lowercase letters"))
-    n_letter2 = int(input("How Many number of uppercase letters"))
-    n_numbers = int(input("How Many number of NUMBERS "))
-    n_symbols = int(input("How Many number of SYMBOLS: "))
+    pass_len=int(input("Enter an password length:"))
+    n_letters = int(input("How Many number of lowercase letters:"))
+    n_letter2 = int(input("How Many number of uppercase letters:"))
+    n_numbers = int(input("How Many number of NUMBERS:"))
+    n_symbols = int(input("How Many number of SYMBOLS:"))                                                            
 
     password_list = []
     # Check if total characters match the desired password length
@@ -51,7 +51,7 @@ def password_generator():
     # MAKING/CONVERTING LIST INTO STRING
     # The "" (empty string) acts as a separator, meaning the characters are joined with nothing in between
     password = "".join(password_list)
-    print(f"Your generated password is:( {password} )")  # Display password
+    print(f"Your generated password is: {password} ")  # Display password
     #print(password_list)
 
 
