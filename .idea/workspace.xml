@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd292588-d32f-4b8d-8b77-52529b62e2cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lamda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reduce.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PROJECT.PY.py" beforeDir="false" afterPath="$PROJECT_DIR$/PROJECT.PY.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filter.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +80,7 @@
       <workItem from="1744267877223" duration="2900000" />
       <workItem from="1744316535208" duration="199000" />
       <workItem from="1744496485161" duration="1163000" />
-      <workItem from="1744638629894" duration="2037000" />
+      <workItem from="1744638629894" duration="2160000" />
     </task>
     <servers />
   </component>
